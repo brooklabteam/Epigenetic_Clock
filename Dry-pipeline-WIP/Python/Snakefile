@@ -1,0 +1,26 @@
+#a snakefile is sort of like a wrapper function. This code has an interlocking set of functions
+# called rules, found in the /rules directory
+
+import pandas as pd
+
+configfile: "config.yaml"
+
+include: "rules/trimmomatic.smk"
+include: "rules/bismark.smk" #runs bismark program (fastq to methylation levels) #uses environment.yaml
+include: "rules/fastQC.smk" #takes in seq and produces qc reports #uses QC.yaml
+include: "rules/QCGraphs.smk" #runs multiqc
+
+
+def get_all_methylation(wildcards): #wildcards is a dummy variable
+    samples = pd.read_table("samples.tsv", index_col= False)[["Sample","Species"]]
+    CHH_file_path = "output/methylation_extracted/{Species}/CHH_context_{genome}_{Sample}_trimmed_bismark_pe.deduplicated.sorted.txt.gz" #why just CHH?
+    files = [CHH_file_path.format(genome = r.Species[0], **r) for i,r in samples.iterrows()]
+    #print(files)
+    if len(files) == 0:
+        raise Exception("No samples found! Check your samples file and try again!")
+    else:
+        return files
+
+
+rule all_methylation_extracted: #the master rule
+    input: get_all_methylation #starts the chain of calling other rules? or use after all others
