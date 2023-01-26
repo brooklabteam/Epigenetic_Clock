@@ -1,9 +1,0 @@
-name: QC
-channels:
-  - bioconda
-  - conda-forge
-  - defaults
-dependencies:
-  - multiqc
-  - fastqc
-  - trimmomatic
