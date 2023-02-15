@@ -1,0 +1,28 @@
+mMyoEvo1_B1S1-3_trimmed_bismark_pe.deduplicated.sorted.bam
+
+Parameters used to extract methylation information:
+Bismark Extractor Version: v0.23.1
+Bismark result file: single-end (SAM format)
+Output specified: comprehensive
+
+
+Processed 1061926 lines in total
+Total number of methylation call strings processed: 1061926
+
+Final Cytosine Methylation Report
+=================================
+Total number of C's analysed:	26488908
+
+Total methylated C's in CpG context:	401644
+Total methylated C's in CHG context:	66469
+Total methylated C's in CHH context:	164258
+
+Total C to T conversions in CpG context:	1491907
+Total C to T conversions in CHG context:	5908740
+Total C to T conversions in CHH context:	18455890
+
+C methylated in CpG context:	21.2%
+C methylated in CHG context:	1.1%
+C methylated in CHH context:	0.9%
+
+

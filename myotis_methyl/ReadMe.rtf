@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11320\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Written by Sophia Horigan (disclaimer: this is my best interpretation because I did not create the contents of this file)\
+\
+config.yaml\
+Configuration for python script\
+\
+dag_bismark.pdf\
+TBD\'97 something about methods\'85\
+\
+envs/\
+Environment setup\
+	environmental.yml\
+	channels and dependencies (samtools, python, etc)\
+	\
+	QC.yaml\
+	channels and dependencies for quality control\
+\
+rules/\
+Snakemake files (workflow engine that provides a readable python-based workflow definition language and a powerful execution environment that scales from single-core workstations to compute clusters without modifying the workflow\'85 that\'92s wikipedia) ** collection of rules that define the order in which the project will be executed (wrapper functions I think?)\
+\
+samples.tsv\
+Metadata for library, file names, file locations, species etc. used to pull files for post processing (I think). Contains paths to fastq files (which I think are what come out of sequencing).\
+\
+scripts/\
+	bismarck_cov_meth_rate_per_chromosome.py\
+	script that takes Bismarck.cov files and calculates % methylation for each chromosome\
+	*if I am confused about file contents, revisit this file\
+\
+Output/\
+	bismark_bedgraph/\
+	files (organized now by spp and by site type?) that contain a bismark file (bismark.cov)\
+	that was generated from a bed graph file (non bismark.cov) (using bismark I assume?)\
+	non bismark.cov column headers: methylation site, position, position?, methylation %\
+	bismark.cov column headers: methylation site, position, position?, methylation %, methylated yes, 	methylated no\
+\
+	methylation_extracted/\
+		\'85report.txt\
+		summary of no. methylation sites, and total counts and % methylation\
+		\'85bias.txt\
+		summary of % methylation per chromosome per type of site\
+	\
+	qc\
+		\'85fastqc\
+		sequencing reports\
+		\'85multiqc ?\
+		same data plus extra\
+\
+\
+\
+\
+\
+\
+\
+	}
