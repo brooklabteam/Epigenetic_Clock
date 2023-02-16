@@ -19,6 +19,10 @@
 
 #Using the "sub" files for now. 
 
+# bismark file outputs ==
+#   <chromosome> <start position> <end position> <methylation percentage> <count methylated> <count unmethylated>
+
+
 ####################################################################################
 #Clear work environment
 rm(list=ls())
