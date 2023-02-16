@@ -1,0 +1,22 @@
+genome:
+  #M_lucifugus: "mMyoLuc1"
+  #M_evotis: "mMyoEvo1"
+  #M_thysanodes: "mMyoThy1"
+  #M_volans: "mMyoVol1"
+  #M_yumanensis: "mMyoYum1"
+  #M_velifer: "mMyoVel1"
+  #M_auriculus: "mMyoAui1"
+  #M_californicus: "mMyoCai1"
+  #M_occultus: "mMyoOcc1"
+  M_lucifugus: "consensus_probe_sequences"
+  M_evotis: "consensus_probe_sequences"
+  M_volans: "consensus_probe_sequences"
+  M_californicus: "consensus_probe_sequences"
+  M_thysanodes: "consensus_probe_sequences"
+  M_yumanensis: "consensus_probe_sequences"
+  M_velifer: "consensus_probe_sequences"
+  M_auriculus: "consensus_probe_sequences"
+  M_occultus: "consensus_probe_sequences"
+
+                  
+binSize: 50

@@ -1,0 +1,17 @@
+channels:
+  - bioconda
+dependencies:
+  - bowtie2
+  - fastqc
+#  - trim-galore
+  - trimmomatic
+  - multiqc
+  - samtools
+  - bamtools
+  - bismark
+  - python > 3
+  - pandas
+#  - cutadapt
+  - ucsc-bedgraphtobigwig
+  - deeptools>=3
+
