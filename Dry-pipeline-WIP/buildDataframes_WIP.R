@@ -28,8 +28,8 @@
 rm(list=ls())
 
 #Set working directory - add yours here
-#homewd= "/Users/theresalaverty/Documents/R/R_repositories/Epigenetic_Clock"
-homewd= "/Users/shorigan/Documents/GitHub/Epigenetic_Clock"
+homewd= "/Users/theresalaverty/Documents/R/R_repositories/Epigenetic_Clock"
+#homewd= "/Users/shorigan/Documents/GitHub/Epigenetic_Clock"
 #Folder where the bismark.cov files of interest are stored
 setwd(paste0(homewd,"/methylation-aging/output/bismark_bedgraph/"))
 
@@ -221,7 +221,211 @@ p6
 plot_grid(p1, p2, p3, p4, p5, p6, ncol = 2)
 
 ####################################################################################
-# PART 3: CALCULATE DEPTH COVERAGE STATISTICS
+# PART 3: UNDERSTAND HOW METHYLATION VARIES BY cpXXXXXXXX
+
+# Goal: look into how sites of the same cpXXXXXXXX relate to one another
+# May be used for filtering
+
+### 1. CpG sites ###
+#transpose data frame so cpXXXXXXXX are rows and samples are columns
+cp_cpg_all <- t(data.frame(c("cp_cpg",substr(colnames(out_cpg[,-1]), 1, 10)))) 
+colnames(cp_cpg_all)<-colnames(out_cpg)
+cp_cpg_all <- rbind(out_cpg, cp_cpg_all)
+rownames(cp_cpg_all)<-NULL
+cp_cpg_all <-t(cp_cpg_all)
+colnames(cp_cpg_all) <- cp_cpg_all[1,]
+cp_cpg_all <- cp_cpg_all[-1,]
+cp_cpg_all <- as.data.frame(cp_cpg_all)
+cp_cpg_all[,1:8] <- as.numeric(cp_cpg_all[,1:8]) 
+View(cp_cpg_all)
+
+#Calculate cell counts with data (excluding NAs) by cpXXXXXXXX
+count_cp_cpg <- cp_cpg_all %>%
+  group_by(cp_cpg) %>%
+  select_if(function(x) any(is.na(x))) %>%
+  summarise_all(funs(sum(!is.na(.)))) %>%
+  mutate(num=rowSums(.[2:9]))
+  
+#Calculate overall cell counts (includes NAs) by cpXXXXXXXX
+num_cells_cp_cpg <- cp_cpg_all %>% 
+  count(cp_cpg, name = "no_rows", .drop = F) %>%
+  mutate(total_cells = no_rows*(ncol(cp_cpg_all)-1))
+
+#Sum all methylation percentages by cpXXXXXXXX
+# make datafram without cp_cpg column
+cp_cpg_all <- cp_cpg_all %>%
+  mutate(across(-c(cp_cpg), as.numeric))
+cp_cpg_all <- as.data.frame(cp_cpg_all)
+#sum by cpXXXXXXXX
+sum_cp_cpg <- aggregate(. ~ cp_cpg, cp_cpg_all,              
+          function(x) sum(x, na.rm=TRUE), na.action = na.pass)
+#bind sums with cp_cpg
+sum_cp_cpg <- cbind(sum_cp_cpg$cp_cpg, as.numeric(rowSums(sum_cp_cpg[,2:9])))
+sum_cp_cpg <- as.data.frame(sum_cp_cpg)
+colnames(sum_cp_cpg) <- c("cp_cpg", "sum") #name columns
+sum_cp_cpg$sum <- as.numeric(sum_cp_cpg$sum) #make numeric
+
+#Merge cell counts with data, overall cell counts, and sum
+together_cp_cpg <- merge(count_cp_cpg, num_cells_cp_cpg, by="cp_cpg")
+together_cp_cpg <- merge(together_cp_cpg, sum_cp_cpg, by="cp_cpg")
+together_cp_cpg <- together_cp_cpg[,-c(2:9,11)]
+
+#Calculate proportion coverage and mean percent methylation by cpXXXXXXXX
+prop_cpg_by_cp <- together_cp_cpg %>% 
+  group_by(cp_cpg) %>%
+  mutate(prop=num/total_cells, mean=sum/num) 
+#prop = number of samples with data at that cpXXXXXXXX site divided by (no_rows per cpXXXXXXXX * no_samples)
+#mean = the methylation percentage divided by the number of samples with data at that cpXXXXXXXX site
+
+#Create a table with each cpXXXXXXXX and prop and mean
+out_cpg_cov_by_cp <- prop_cpg_by_cp[,c(1, 5:6)]
+colnames(out_cpg_cov_by_cp)[2:3] <- c("proportion_coverage", "mean_percent_methylation")
+View(out_cpg_cov_by_cp)
+
+
+### 2. CHH sites ###
+#transpose data frame so cpXXXXXXXX are rows and samples are columns
+cp_chh_all <- t(data.frame(c("cp_chh",substr(colnames(out_chh[,-1]), 1, 10)))) 
+colnames(cp_chh_all)<-colnames(out_chh)
+cp_chh_all <- rbind(out_chh, cp_chh_all)
+rownames(cp_chh_all)<-NULL
+cp_chh_all <-t(cp_chh_all)
+colnames(cp_chh_all) <- cp_chh_all[1,]
+cp_chh_all <- cp_chh_all[-1,]
+cp_chh_all <- as.data.frame(cp_chh_all)
+cp_chh_all[,1:8] <- as.numeric(cp_chh_all[,1:8]) 
+View(cp_chh_all)
+
+#Calculate cell counts with data (excluding NAs) by cpXXXXXXXX
+count_cp_chh <- cp_chh_all %>%
+  group_by(cp_chh) %>%
+  select_if(function(x) any(is.na(x))) %>%
+  summarise_all(funs(sum(!is.na(.)))) %>%
+  mutate(num=rowSums(.[2:9]))
+
+#Calculate overall cell counts (includes NAs) by cpXXXXXXXX
+num_cells_cp_chh <- cp_chh_all %>% 
+  count(cp_chh, name = "no_rows", .drop = F) %>%
+  mutate(total_cells = no_rows*(ncol(cp_chh_all)-1))
+
+#Sum all methylation percentages by cpXXXXXXXX
+# make datafram without cp_chh column
+cp_chh_all <- cp_chh_all %>%
+  mutate(across(-c(cp_chh), as.numeric))
+cp_chh_all <- as.data.frame(cp_chh_all)
+#sum by cpXXXXXXXX
+sum_cp_chh <- aggregate(. ~ cp_chh, cp_chh_all,              
+                        function(x) sum(x, na.rm=TRUE), na.action = na.pass)
+#bind sums with cp_chh
+sum_cp_chh <- cbind(sum_cp_chh$cp_chh, as.numeric(rowSums(sum_cp_chh[,2:9])))
+sum_cp_chh <- as.data.frame(sum_cp_chh)
+colnames(sum_cp_chh) <- c("cp_chh", "sum") #name columns
+sum_cp_chh$sum <- as.numeric(sum_cp_chh$sum) #make numeric
+
+#Merge cell counts with data, overall cell counts, and sum
+together_cp_chh <- merge(count_cp_chh, num_cells_cp_chh, by="cp_chh")
+together_cp_chh <- merge(together_cp_chh, sum_cp_chh, by="cp_chh")
+together_cp_chh <- together_cp_chh[,-c(2:9,11)]
+
+#Calculate proportion coverage and mean percent methylation by cpXXXXXXXX
+prop_chh_by_cp <- together_cp_chh %>% 
+  group_by(cp_chh) %>%
+  mutate(prop=num/total_cells, mean=sum/num) 
+#prop = number of samples with data at that cpXXXXXXXX site divided by (no_rows per cpXXXXXXXX * no_samples)
+#mean = the methylation percentage divided by the number of samples with data at that cpXXXXXXXX site
+
+#Create a table with each cpXXXXXXXX and prop and mean
+out_chh_cov_by_cp <- prop_chh_by_cp[,c(1, 5:6)]
+colnames(out_chh_cov_by_cp)[2:3] <- c("proportion_coverage", "mean_percent_methylation")
+View(out_chh_cov_by_cp)
+
+
+### 3. CHG sites ###
+#transpose data frame so cpXXXXXXXX are rows and samples are columns
+cp_chg_all <- t(data.frame(c("cp_chg",substr(colnames(out_chg[,-1]), 1, 10)))) 
+colnames(cp_chg_all)<-colnames(out_chg)
+cp_chg_all <- rbind(out_chg, cp_chg_all)
+rownames(cp_chg_all)<-NULL
+cp_chg_all <-t(cp_chg_all)
+colnames(cp_chg_all) <- cp_chg_all[1,]
+cp_chg_all <- cp_chg_all[-1,]
+cp_chg_all <- as.data.frame(cp_chg_all)
+cp_chg_all[,1:8] <- as.numeric(cp_chg_all[,1:8]) 
+View(cp_chg_all)
+
+#Calculate cell counts with data (excluding NAs) by cpXXXXXXXX
+count_cp_chg <- cp_chg_all %>%
+  group_by(cp_chg) %>%
+  select_if(function(x) any(is.na(x))) %>%
+  summarise_all(funs(sum(!is.na(.)))) %>%
+  mutate(num=rowSums(.[2:9]))
+
+#Calculate overall cell counts (includes NAs) by cpXXXXXXXX
+num_cells_cp_chg <- cp_chg_all %>% 
+  count(cp_chg, name = "no_rows", .drop = F) %>%
+  mutate(total_cells = no_rows*(ncol(cp_chg_all)-1))
+
+#Sum all methylation percentages by cpXXXXXXXX
+# make datafram without cp_chg column
+cp_chg_all <- cp_chg_all %>%
+  mutate(across(-c(cp_chg), as.numeric))
+cp_chg_all <- as.data.frame(cp_chg_all)
+#sum by cpXXXXXXXX
+sum_cp_chg <- aggregate(. ~ cp_chg, cp_chg_all,              
+                        function(x) sum(x, na.rm=TRUE), na.action = na.pass)
+#bind sums with cp_chg
+sum_cp_chg <- cbind(sum_cp_chg$cp_chg, as.numeric(rowSums(sum_cp_chg[,2:9])))
+sum_cp_chg <- as.data.frame(sum_cp_chg)
+colnames(sum_cp_chg) <- c("cp_chg", "sum") #name columns
+sum_cp_chg$sum <- as.numeric(sum_cp_chg$sum) #make numeric
+
+#Merge cell counts with data, overall cell counts, and sum
+together_cp_chg <- merge(count_cp_chg, num_cells_cp_chg, by="cp_chg")
+together_cp_chg <- merge(together_cp_chg, sum_cp_chg, by="cp_chg")
+together_cp_chg <- together_cp_chg[,-c(2:9,11)]
+
+#Calculate proportion coverage and mean percent methylation by cpXXXXXXXX
+prop_chg_by_cp <- together_cp_chg %>% 
+  group_by(cp_chg) %>%
+  mutate(prop=num/total_cells, mean=sum/num) 
+#prop = number of samples with data at that cpXXXXXXXX site divided by (no_rows per cpXXXXXXXX * no_samples)
+#mean = the methylation percentage divided by the number of samples with data at that cpXXXXXXXX site
+
+#Create a table with each cpXXXXXXXX and prop and mean
+out_chg_cov_by_cp <- prop_chg_by_cp[,c(1, 5:6)]
+colnames(out_chg_cov_by_cp)[2:3] <- c("proportion_coverage", "mean_percent_methylation")
+View(out_chg_cov_by_cp)
+
+
+# PLOTS OF BREADTH COVERAGE STATISTICS by cpXXXXXXXX
+# CPG
+p1_by_cp <- ggplot(out_cpg_cov_by_cp, aes(proportion_coverage)) + geom_histogram(binwidth = 0.125) + 
+  labs(title ="CPG coverage by cpXXXXXXXX - 8 samples") + scale_x_continuous(breaks = c(0, 0.125, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875, 1)) #number of bats
+#p1_by_cp
+p2_by_cp <- ggplot(out_cpg_cov_by_cp, aes(mean_percent_methylation)) + geom_histogram() + 
+  labs(title ="CPG percent methylation by cpXXXXXXXX - 8 samples") + scale_x_continuous(breaks = c(0,10,20,30,40,50,60,70,80,90,100))
+#p2_by_cp
+
+# CHG
+p3_by_cp <- ggplot(out_chh_cov_by_cp, aes(proportion_coverage)) + geom_histogram(binwidth = 0.125) + 
+  labs(title ="CHG coverage by cpXXXXXXXX - 8 samples") + scale_x_continuous(breaks = c(0, 0.125, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875, 1)) #number of bats
+#p3_by_cp
+p4_by_cp <- ggplot(out_chh_cov_by_cp, aes(mean_percent_methylation)) + geom_histogram() + 
+  labs(title ="CHG percent methylation by cpXXXXXXXX - 8 samples") + scale_x_continuous(breaks = c(0,10,20,30,40,50,60,70,80,90,100))
+#p4_by_cp
+
+# CHH
+p5_by_cp <- ggplot(out_chg_cov_by_cp, aes(proportion_coverage)) + geom_histogram(binwidth = 0.125) + 
+  labs(title ="CHH coverage by cpXXXXXXXX - 8 samples") + scale_x_continuous(breaks = c(0, 0.125, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875, 1)) #number of bats
+#p5_by_cp
+p6_by_cp <- ggplot(out_chg_cov_by_cp, aes(mean_percent_methylation)) + geom_histogram() + 
+  labs(title ="CHH percent methylation by cpXXXXXXXX - 8 samples") + scale_x_continuous(breaks = c(0,10,20,30,40,50,60,70,80,90,100))
+#p6_by_cp
+
+plot_grid(p1_by_cp, p2_by_cp, p3_by_cp, p4_by_cp, p5_by_cp, p6_by_cp, ncol = 2)
+
+####################################################################################
+# PART 4: CALCULATE DEPTH COVERAGE STATISTICS
 
 # Goal: use fastq files to figure out the coverage depth
 # for all sites, to be used for filtering
@@ -231,7 +435,7 @@ plot_grid(p1, p2, p3, p4, p5, p6, ncol = 2)
 
 
 ####################################################################################
-# PART 4: FILTERING BASED ON BREADTH AND DEPTH COVERAGE STATISTICS
+# PART 5: FILTERING BASED ON BREADTH AND DEPTH COVERAGE STATISTICS
 
 # Goal: only keep sites that map to at least 1 genome (this criteria may already be in place in bismark) 
 # this might need to be 2? based on how training works # look into wilkinson training
@@ -250,7 +454,7 @@ plot_grid(p1, p2, p3, p4, p5, p6, ncol = 2)
 
 
 ##################################################################################
-# PART 5: Add in metadata
+# PART 6: Add in metadata
 
 # Goal: to make this dataframe ready for clock building, we need to
 # add back in associated metadata for each sample.
