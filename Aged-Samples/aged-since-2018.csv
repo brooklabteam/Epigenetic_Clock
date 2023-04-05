@@ -1,0 +1,591 @@
+"sampleid","age","tooth_type","species","cc","published","publication","notes","collection_date"
+"AMB122",4,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-02-23
+"AMB123",1,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-02-23
+"AMB125",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-02-24
+"AMB126",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-02-24
+"AMB129",1,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-02-25
+"AMB130",3,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-02-26
+"AMB131",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-02-27
+"AMB132",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-02-28
+"AMB134",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-03-01
+"AMB136",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-03-01
+"AMB138",4,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-03-02
+"AMB141",1,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-04-16
+"AMB143",3,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-04-17
+"AMB148",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-04-22
+"AMB149",1,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-08-05
+"AMB150",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-08-06
+"AMB151",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-08-07
+"AMB152",1,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-08-07
+"AMB155",1,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-08-08
+"AMB156",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-12-21
+"AMB157",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-12-24
+"AMB162",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-02-14
+"AMB163",5,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-02-18
+"AMB164",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-02-19
+"AND42",5,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-08-08
+"AND43",6,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-08-09
+"ANGB130",1,"upper left canine","Eidolon_dupreanum","A","no",NA,"age inferred from 1 tooth",2018-02-14
+"ANGB131",1,"lower left canine","Eidolon_dupreanum","A","no",NA,"age inferred from 1 tooth",2018-02-14
+"ANGB132",4,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2018-02-14
+"ANGB135",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-04-09
+"ANGB142",1,"lower left canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-04-09
+"ANGB143",3,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-07-27
+"ANGB147",5,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-07-27
+"ANGB156",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-09-09
+"ANGB157",8,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-09-09
+"ANGB158",8,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-09-09
+"ANGB159",5,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-09-09
+"ANGB160",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-09-09
+"ANGB161",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-09-09
+"ANGB162",4,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-09-09
+"CAT017",3,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-04
+"CAT018",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-04
+"CAT019",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-04
+"CAT021",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-04
+"CAT026",1,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-05
+"CAT027",3,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-05
+"CAT032",4,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-05
+"CAT034",3,"lower right premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-05
+"CAT035",2,"lower right premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-05
+"CAT036",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-05
+"CAT037",10,"lower right premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-05
+"KEL172",2.5,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2018-02-15
+"KEL173",5.25,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2018-02-15
+"KEL177",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-02-16
+"KEL178",6,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-02-16
+"KEL185",6,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-04-10
+"KEL186",5,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-04-10
+"KEL187",5,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-04-10
+"KEL188",4,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-04-10
+"KEL198",6,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-04-10
+"KEL213",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-07-27
+"KEL217",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-07-27
+"KEL218",2,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-07-27
+"KEL219",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-07-27
+"KEL222",7,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2018-07-27
+"KEL227",4,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2018-07-27
+"KEL252",7,"lower right canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-06
+"KEL254",1,"lower left canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-06
+"KEL255",2,"lower left canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-08
+"KEL256",4,"lower left canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-08
+"KEL257",4,"lower left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-01-08
+"KEL258",16,"lower left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-01-08
+"KEL260",10,"lower left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-01-08
+"KEL261",8,"lower left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-01-08
+"KEL262",1,"lower left canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-08
+"KEL263",6,"lower right canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-08
+"KEL264",4,"lower left canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-01-08
+"KEL270B",0.5,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2019-03-14
+"KEL273B",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-03-14
+"KEL275B",2,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-03-14
+"KEL276B",2,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-03-14
+"KEL277B",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-03-14
+"KEL278B",6,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-03-14
+"KEL279B",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-03-14
+"KEL284B",1,"lower right canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-03-15
+"KEL290",4,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-02-06
+"KEL291",4,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-02-06
+"KEL295",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-02-06
+"KEL296",6,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-02-06
+"KEL297",5,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-02-06
+"KEL298",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-02-06
+"KEL304",1,"lower right canine","Eidolon_dupreanum","A","no",NA,"age inferred from 1 tooth",2019-04-23
+"KEL305",10,"lower left canine","Eidolon_dupreanum","A","no",NA,"age inferred from 1 tooth",2019-04-23
+"KEL309",6,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-04-23
+"KEL310",9.33333333333333,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2019-04-23
+"KEL312",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-04-23
+"KEL313",8,"upper right canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-04-23
+"KEL316",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-04-23
+"KEL317",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-04-23
+"KEL319",1,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2019-04-23
+"KEL326",2,"upper right canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-04-23
+"KEL328",6,"upper right canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-04-23
+"KEL332",2.5,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2019-04-23
+"KEL333",9,"lower left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-04-23
+"KEL336",6,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-06-05
+"KEL337",4,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-06-05
+"KEL339",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-06-05
+"KEL340",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-06-05
+"KEL345",9,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-06-06
+"KEL348",10,"upper left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-07-07
+"KEL349",5,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-07-07
+"KEL354",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-07-07
+"KEL361",3,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-08-24
+"KEL366",8,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-08-24
+"KEL367",2,"upper right canine","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-08-24
+"KEL368",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-08-24
+"KEL369",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-09-20
+"KEL370",10,"upper left canine","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-09-20
+"KEL380",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-09-20
+"KEL389",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-09-20
+"KEL392",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-10-17
+"KEL395",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-10-17
+"KEL396",1,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2019-10-17
+"KEL403",2,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-16
+"KEL404",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-16
+"KEL415",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-16
+"KEL430",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-12-11
+"KEL432",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-12-11
+"KEL437",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-12-11
+"KEL440",5,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2020-02-02
+"KEL442",4,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2020-02-02
+"KEL449",1,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2020-02-02
+"KEL459",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2020-02-02
+"KEL459",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2020-03-11
+"KEL471",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2020-03-10
+"KEL486",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2020-03-12
+"MIZ154",0.333333333333333,"multiple","Rousettus_madagascariensis","A","no",NA,"age inferred from multiple teeth",2018-02-19
+"MIZ163",6,"multiple","Rousettus_madagascariensis","A","no",NA,"age inferred from multiple teeth",2018-02-19
+"MIZ167",3,"multiple","Rousettus_madagascariensis","A","no",NA,"age inferred from multiple teeth",2018-04-13
+"MIZ262",3,"multiple","Rousettus_madagascariensis","B","no",NA,"age inferred from multiple teeth",2018-12-21
+"MIZ284",2,"multiple","Rousettus_madagascariensis","A","no",NA,"age inferred from multiple teeth",2019-01-03
+"MIZ380",3.66666666666667,"multiple","Rousettus_madagascariensis","A","no",NA,"age inferred from multiple teeth",2019-02-23
+"MIZ381",4,"multiple","Rousettus_madagascariensis","A","no",NA,"age inferred from multiple teeth",2019-02-23
+"MLB001",4,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-12-13
+"MLB004",1,"lower right premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-12-16
+"MLB005",5,"lower right premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-12-17
+"MLB006",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-12-18
+"MLB009",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2018-12-18
+"MNG003",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2018-09-23
+"TSI001",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-06-15
+"TSI002",3,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-06-16
+"TSI004",1,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-07-17
+"TSI007",1,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-07-18
+"TSI008",4,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-07-20
+"TSI011",4,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-07-21
+"TSI012",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-07-22
+"TSI013",6,"upper left canine","Pteropus_rufus","A","no",NA,"age inferred from 1 tooth",2019-07-22
+"TSI022",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-09-01
+"TSI023",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-09-02
+"TSI025",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-09-02
+"TSI026",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-09-02
+"TSI027",3,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-09-02
+"TSI028",1,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-09-02
+"TSI029",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-09-02
+"TSI030",3,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-09-02
+"TSI032",1,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-09-03
+"TSI035",1,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2019-09-07
+"TSI046",2,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2019-10-04
+"TSI065",8,"upper right canine","Pteropus_rufus","A","no",NA,"age from 1 tooth",2020-02-24
+"TSI067",7,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2020-02-26
+"TSI068",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2020-02-28
+"TSI069",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2020-02-28
+"TSI070",3,"lower left premolar","Pteropus_rufus","B","no",NA,"age from 1 tooth",2020-02-28
+"TSI074",2,"lower right premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2020-03-23
+"TSI075",2,"lower left premolar","Pteropus_rufus","A","no",NA,"age from 1 tooth",2020-03-25
+"WAY025",13.6666666666667,"multiple","Eidolon_dupreanum","A","no",NA,"age inferred from multiple teeth",2019-11-01
+"WAY031",4,"lower right premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-01
+"WAY039",4,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-02
+"WAY043",1,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-02
+"WAY047",2,"lower right premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-02
+"WAY048",2,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-03
+"WAY049",9,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-03
+"WAY054",5,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-27
+"WAY074",3,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-28
+"WAY075",3,"lower left premolar","Eidolon_dupreanum","B","no",NA,"age from 1 tooth",2019-11-29
+"WAY076",7,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-29
+"WAY077",5,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-29
+"WAY078",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-29
+"WAY080",1,"lower left premolar","Eidolon_dupreanum","A","no",NA,"age from 1 tooth",2019-11-29
+"WAY082",7,"lower left premolar","Eidolon_dupreanum","C","no",NA,"age from 1 tooth",2019-11-29
+"AMB124",0.4,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-23
+"AMB127",0.402739726027397,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-24
+"AMB128",0.405479452054795,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-25
+"AMB133",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-28
+"AMB137",0.416438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-03-01
+"AMB140",0.542465753424658,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-16
+"AMB142",0.545205479452055,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-17
+"AMB144",0.545205479452055,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-17
+"AMB146",0.550684931506849,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-19
+"AMB153",0.852054794520548,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-08-07
+"AMB154",0.852054794520548,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-08-07
+"AMB161",0.372602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-13
+"AMB170",0.487671232876712,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-03-27
+"ANGB146",0.69041095890411,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-07-27
+"CAT003",0.86027397260274,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-27
+"CAT028",0.967123287671233,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-05
+"CAT029",0.967123287671233,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-05
+"CAT033",0.967123287671233,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-05
+"KEL158",0.246575342465753,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-15
+"KEL159",0.246575342465753,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-15
+"KEL164",0.246575342465753,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-15
+"KEL166",0.246575342465753,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-15
+"KEL169",0.246575342465753,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-15
+"KEL171",0.246575342465753,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-15
+"KEL193",0.394520547945205,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-10
+"KEL206",0.394520547945205,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-10
+"KEL215",0.69041095890411,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-07-27
+"KEL221",0.69041095890411,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-07-27
+"KEL228",0.69041095890411,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-07-27
+"KEL236",0.69041095890411,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-07-27
+"KEL253",0.136986301369863,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-06
+"KEL259",0.142465753424658,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-08
+"KEL268B",0.320547945205479,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-03-14
+"KEL281",0.219178082191781,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-05
+"KEL286",0.219178082191781,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-05
+"KEL327",0.43013698630137,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-04-23
+"KEL363",0.635616438356164,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-07
+"KEL378",0.841095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-20
+"KEL391",0.915068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-17
+"KEL394",0.915068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-17
+"KEL402",0.997260273972603,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-16
+"KEL414",0.997260273972603,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-16
+"KEL416",0.997260273972603,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-16
+"KEL421",0.997260273972603,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-16
+"KEL422",0.997260273972603,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-16
+"KEL435",0.0657534246575342,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-12-11
+"KEL452",0.210958904109589,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-02
+"KEL457",0.210958904109589,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-02
+"KEL460",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-11
+"KEL461",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-11
+"KEL462",0.210958904109589,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-02
+"KEL463",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-11
+"KEL467",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-11
+"KEL468",0.210958904109589,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-02
+"KEL468",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-11
+"KEL469",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL470",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL472",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL473",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL475",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL476",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL477",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL478",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL479",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL480",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL484",0.312328767123288,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"KEL485",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-11
+"MIZ135",0.183561643835616,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-18
+"MIZ137",0.183561643835616,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-18
+"MIZ141",0.183561643835616,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-18
+"MIZ144",0.183561643835616,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-18
+"MIZ153",0.186301369863014,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-19
+"MIZ156",0.186301369863014,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-19
+"MIZ158",0.186301369863014,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-19
+"MIZ160",0.186301369863014,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-02-19
+"MIZ176",0.331506849315069,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-04-13
+"MIZ193",0.624657534246575,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-07-29
+"MIZ225",0.745205479452055,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-11
+"MIZ231",0.745205479452055,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-11
+"MIZ232",0.745205479452055,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-11
+"MIZ233",0.745205479452055,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-11
+"MIZ234",0.745205479452055,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-11
+"MIZ243",0.747945205479452,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-12
+"MIZ245",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ248",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ255",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ256",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ257",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ258",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ259",0.0191780821917808,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-20
+"MIZ263",0.0219178082191781,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-21
+"MIZ264",0.0219178082191781,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-21
+"MIZ267",0.0219178082191781,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-21
+"MIZ268",0.0219178082191781,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-21
+"MIZ272",0.0219178082191781,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-21
+"MIZ286",0.0575342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-03
+"MIZ287",0.0575342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-03
+"MIZ288",0.0575342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-03
+"MIZ289",0.0575342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-03
+"MIZ290",0.0575342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-03
+"MIZ296",0.0602739726027397,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-04
+"MIZ304",0.0657534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-06
+"MIZ305",0.0657534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-06
+"MIZ306",0.0657534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-06
+"MIZ307",0.0657534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-06
+"MIZ310",0.0712328767123288,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-08
+"MIZ311",0.0712328767123288,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-08
+"MIZ312",0.0712328767123288,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-08
+"MIZ313",0.0712328767123288,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-08
+"MIZ324",0.073972602739726,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-09
+"MIZ325",0.073972602739726,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-09
+"MIZ326",0.073972602739726,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-09
+"MIZ327",0.073972602739726,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-09
+"MIZ328",0.073972602739726,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-09
+"MIZ335",0.0767123287671233,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-10
+"MIZ336",0.0767123287671233,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-10
+"MIZ337",0.0767123287671233,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-10
+"MIZ343",0.134246575342466,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-31
+"MIZ344",0.134246575342466,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-31
+"MIZ345",0.134246575342466,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-01-31
+"MIZ349",0.136986301369863,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-01
+"MIZ364",0.136986301369863,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-01
+"MIZ365",0.136986301369863,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-01
+"MIZ370",0.136986301369863,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-01
+"MIZ371",0.136986301369863,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-01
+"MIZ372",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ373",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ374",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ375",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ376",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ377",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ378",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ379",0.197260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-23
+"MIZ382",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ383",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ386",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ389",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ390",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ391",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ392",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ394",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ395",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ399",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ401",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ402",0.2,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-02-24
+"MIZ414",0.320547945205479,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-04-09
+"MIZ427",0.323287671232877,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-04-10
+"MIZ430",0.435616438356164,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-05-21
+"MIZ437",0.435616438356164,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-05-21
+"MIZ448",0.438356164383562,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-05-22
+"MIZ456",0.553424657534247,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-03
+"MIZ458",0.553424657534247,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-03
+"MIZ461",0.553424657534247,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-03
+"MIZ462",0.553424657534247,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-03
+"MIZ463",0.553424657534247,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-03
+"MIZ469",0.69041095890411,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-22
+"MIZ471",0.69041095890411,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-22
+"MIZ472",0.69041095890411,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-22
+"MIZ504",0.764383561643836,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-18
+"MIZ512",0.767123287671233,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-19
+"MIZ523",0.838356164383562,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-15
+"MIZ525",0.838356164383562,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-15
+"MIZ533",0.838356164383562,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-15
+"MIZ546",0.917808219178082,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-13
+"MIZ547",0.841095890410959,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-16
+"MIZ612",0.134246575342466,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-01-31
+"MIZ613",0.134246575342466,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-01-31
+"MIZ643",0.241095890410959,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"MIZ646",0.241095890410959,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-03-10
+"MLB002",0.202739726027397,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-13
+"MLB003",0.205479452054795,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-14
+"MLB007",0.216438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-12-18
+"MNG001",0.972602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-20
+"MNG002",0.975342465753425,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2018-09-21
+"ROU103",0.652054794520548,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-08
+"ROU104",0.654794520547945,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-09
+"ROU111",0.654794520547945,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-09
+"ROU113",0.66027397260274,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-11
+"ROU119",0.786301369863014,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-26
+"ROU132",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU134",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU136",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU137",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU139",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU140",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU141",0.794520547945205,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"ROU146",0.901369863013699,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-07
+"ROU154",0.901369863013699,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-07
+"ROU162",0.904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-08
+"ROU195",0.964383561643836,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-30
+"ROU95",0.652054794520548,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-08-08
+"RTC007",0.893150684931507,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-04
+"RTC009",0.893150684931507,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-04
+"RTC012",0.895890410958904,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-05
+"TSI003",0.712328767123288,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-06-17
+"TSI005",0.794520547945205,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-17
+"TSI009",0.802739726027397,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-20
+"TSI014",0.808219178082192,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-07-22
+"TSI031",0.926027397260274,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-03
+"TSI033",0.928767123287671,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-04
+"TSI036",0.994520547945206,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-28
+"TSI039",0.997260273972603,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"TSI040",0.997260273972603,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"TSI041",0.972602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-20
+"TSI042",0.997260273972603,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"TSI043",0.997260273972603,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-09-29
+"TSI045",0.010958904109589,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-04
+"TSI049",0.0712328767123288,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-26
+"TSI051",0.073972602739726,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-27
+"TSI055",0.0794520547945206,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-29
+"TSI056",0.0794520547945206,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-29
+"TSI059",0.0849315068493151,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-31
+"TSI060",0.0849315068493151,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-31
+"TSI066",0.405479452054795,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-25
+"TSI071",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-28
+"TSI073",0.416438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2020-02-29
+"WAY005",0.871232876712329,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-01
+"WAY009",0.871232876712329,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-01
+"WAY010",0.871232876712329,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-01
+"WAY011",0.871232876712329,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-01
+"WAY015",0.873972602739726,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-02
+"WAY022",0.873972602739726,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-02
+"WAY023",0.873972602739726,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-02
+"WAY024",0.873972602739726,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-10-02
+"WAY032",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY033",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY034",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY035",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY036",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY037",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY038",0.956164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-01
+"WAY044",0.958904109589041,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-02
+"WAY045",0.958904109589041,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-02
+"WAY046",0.958904109589041,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-02
+"WAY052",0.961643835616438,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-03
+"WAY053",0.961643835616438,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-03
+"WAY072",0.0301369863013699,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-28
+"WAY073",0.0301369863013699,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-28
+"WAY081",0.0328767123287671,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-29
+"WAY083",0.0328767123287671,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2019-11-29
+"MIZ665",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ678",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ670",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ672",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ673",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ680",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ651",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ652",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ653",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ655",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ656",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ657",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ659",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"MIZ662",0.208219178082192,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-02-27
+"TSI079",0.432876712328767,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-07
+"KEL499",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-12
+"KEL501",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-12
+"KEL504",0.315068493150685,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-12
+"KEL514",0.317808219178082,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-13
+"KEL515",0.317808219178082,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-13
+"KEL521",0.317808219178082,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-13
+"KEL531",0.317808219178082,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-13
+"MIZ681",0.257534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-17
+"MIZ687",0.257534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-17
+"MIZ688",0.257534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-17
+"MIZ690",0.257534246575342,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-17
+"MIZ691",0.26027397260274,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-18
+"MIZ693",0.26027397260274,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-03-18
+"MIZ705",0.405479452054795,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-05-10
+"MIZ706",0.405479452054795,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-05-10
+"MIZ711",0.405479452054795,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-05-10
+"MIZ712",0.405479452054795,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-05-10
+"MIZ713",0.405479452054795,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-05-10
+"TSI082",0.564383561643836,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-04-24
+"TSI087",0.572602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-04-27
+"TSI083",0.567123287671233,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-04-25
+"TSI085",0.56986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-04-26
+"TSI088",0.572602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-04-27
+"TSI090",0.580821917808219,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-04-30
+"ROU204",0.547945205479452,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-01
+"ROU216",0.547945205479452,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-01
+"ROU226",0.553424657534247,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-03
+"KEL611",0.679452054794521,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-23
+"KEL613",0.679452054794521,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-23
+"KEL618",0.682191780821918,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-24
+"ANA001",0.852054794520548,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-08-07
+"ANA002",0.857534246575342,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-08-09
+"ANA003",0.857534246575342,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-08-09
+"ANA004",0.857534246575342,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-08-09
+"ANA005",0.86027397260274,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-08-10
+"ANA006",0.863013698630137,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-08-11
+"MIZ744",0.597260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-19
+"MIZ745",0.597260273972603,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-07-19
+"KEL629",0.865753424657534,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-29
+"KEL631",0.865753424657534,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-29
+"KEL637",0.865753424657534,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-29
+"KEL638",0.865753424657534,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-29
+"KEL639",0.865753424657534,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-29
+"KEL641",0.865753424657534,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-29
+"KEL644",0.868493150684931,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-30
+"KEL647",0.868493150684931,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-09-30
+"ANA014",0.0438356164383562,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-10-16
+"ANA016",0.0438356164383562,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-10-16
+"ANA020",0.0465753424657534,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-10-17
+"MIZ787",0.816438356164384,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-10-07
+"KEL695",0.00821917808219178,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-20
+"KEL696",0.00821917808219178,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-20
+"KEL697",0.00821917808219178,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-20
+"KEL698",0.00821917808219178,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-20
+"KEL699",0.00821917808219178,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-20
+"KEL700",0.00821917808219178,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-20
+"KEL703",0.010958904109589,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-21
+"KEL704",0.010958904109589,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-21
+"MIZ806",0.931506849315068,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-18
+"MIZ811",0.931506849315068,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-18
+"MIZ814",0.934246575342466,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-19
+"ANA027",0.164383561643836,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-29
+"ANA029",0.164383561643836,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-29
+"ANA031",0.164383561643836,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-29
+"ANA034",0.167123287671233,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-30
+"ANA036",0.167123287671233,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-11-30
+"ANA039",0.16986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-01
+"ANA041",0.16986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-01
+"ANA043",0.16986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-01
+"ANA045",0.16986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-01
+"ANA049",0.172602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-02
+"ANA051",0.172602739726027,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-02
+"MIZ836",0.972602739726027,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-03
+"MIZ839",0.972602739726027,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-03
+"MIZ840",0.972602739726027,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-03
+"MIZ843",0.975342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-04
+"MIZ856",0.975342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2022-12-04
+"KEL674",0.156164383561644,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-13
+"MIZ888",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ889",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ890",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ891",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ892",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ893",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ894",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ895",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ896",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"MIZ897",0.0904109589041096,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-15
+"ANA057",0.334246575342466,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-30
+"ANA059",0.334246575342466,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-30
+"ANA061",0.334246575342466,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-30
+"ANA062",0.334246575342466,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-30
+"ANA064",0.334246575342466,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-30
+"ANA065",0.334246575342466,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-30
+"ANA068",0.336986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-31
+"ANA069",0.336986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-31
+"ANA070",0.336986301369863,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-01-31
+"ANA071",0.33972602739726,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-01
+"ANA072",0.33972602739726,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-01
+"ANA073",0.33972602739726,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-01
+"ANA074",0.33972602739726,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-01
+"ANA077",0.342465753424658,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-02
+"ANA079",0.342465753424658,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-02
+"ANA083",0.342465753424658,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-02
+"KEL681",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL684",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL715",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL717",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL719",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL722",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL723",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL727",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL729",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL730",0.243835616438356,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-14
+"KEL735",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"KEL736",0.241095890410959,NA,"Eidolon dupreanum","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-13
+"MIZ898",0.175342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-15
+"MIZ907",0.175342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-15
+"MIZ915",0.175342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-15
+"MIZ921",0.175342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-15
+"MIZ923",0.175342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-15
+"MIZ927",0.175342465753425,NA,"Rousettus madagascariensis","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-15
+"MARO083",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO085",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO086",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO087",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO088",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO090",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO091",0.413698630136986,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-02-28
+"MARO092",0.416438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-01
+"MARO093",0.416438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-01
+"MARO094",0.416438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-01
+"MARO095",0.416438356164384,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-01
+"MARO096",0.419178082191781,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-02
+"MARO097",0.419178082191781,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-02
+"MARO099",0.419178082191781,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-02
+"MARO100",0.419178082191781,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-02
+"MARO101",0.419178082191781,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-02
+"MARO103",0.421917808219178,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-03
+"MARO104",0.421917808219178,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-03
+"MARO105",0.421917808219178,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-03
+"MARO106",0.421917808219178,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-03
+"MARO107",0.421917808219178,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-03
+"MARO108",0.424657534246575,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-04
+"MARO111",0.427397260273973,NA,"Pteropus rufus","A","no",NA,"aged as juvenile from days since day 0: Sep 29 for P. rufus, Nov 16 for E. dupreanum, Dec. 12 for R. madagascariensis",2023-03-05
