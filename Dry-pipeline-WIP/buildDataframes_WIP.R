@@ -424,6 +424,26 @@ p6_by_cp <- ggplot(out_chg_cov_by_cp, aes(mean_percent_methylation)) + geom_hist
 
 plot_grid(p1_by_cp, p2_by_cp, p3_by_cp, p4_by_cp, p5_by_cp, p6_by_cp, ncol = 2)
 
+#Look at overlap of cpXXXXXXXX sites across CpG, CHH, CHG sites
+colnames(out_cpg_cov_by_cp)[1:3] <- c("cp", "cpg_proportion_coverage", "cpg_mean_percent_methylation")
+colnames(out_chh_cov_by_cp)[1:3] <- c("cp", "chh_proportion_coverage", "chh_mean_percent_methylation")
+colnames(out_chg_cov_by_cp)[1:3] <- c("cp", "chg_proportion_coverage", "chg_mean_percent_methylation")
+#determine how long merged df should be
+length(out_cpg_cov_by_cp$cp)#1664
+length(out_chh_cov_by_cp$cp)#1873
+length(out_chg_cov_by_cp$cp)#1757
+#put all data frames into list
+df_list <- list(out_cpg_cov_by_cp, out_chh_cov_by_cp, out_chg_cov_by_cp)
+#merge all data frames in list
+(merged_cov_by_cp <- df_list %>% reduce(full_join, by='cp'))
+length(merged_cov_by_cp$cp) #1880
+sum(complete.cases(merged_cov_by_cp)) #1588 rows have data for CpG, CHH, and CHG
+output <- sapply(merged_cov_by_cp,is.na) 
+table(rowSums(output)/2) 
+#0 = no. rows in which CpG, CHH, and CHG have data, 1 = no. rows in which two have data, 2 = no. rows in which only one has data
+# 0    1    2 
+# 1588  238   54 
+
 ####################################################################################
 # PART 4: CALCULATE DEPTH COVERAGE STATISTICS
 
