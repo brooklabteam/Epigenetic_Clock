@@ -28,8 +28,8 @@
 rm(list=ls())
 
 #Set working directory - add yours here
-homewd= "/Users/theresalaverty/Documents/R/R_repositories/Epigenetic_Clock"
-#homewd= "/Users/shorigan/Documents/GitHub/Epigenetic_Clock"
+#homewd= "/Users/theresalaverty/Documents/R/R_repositories/Epigenetic_Clock"
+homewd= "/Users/sophiahorigan/Documents/GitHub/Epigenetic_Clock"
 #Folder where the bismark.cov files of interest are stored
 setwd(paste0(homewd,"/methylation-aging/output/bismark_bedgraph/"))
 
@@ -293,7 +293,7 @@ cp_chh_all <-t(cp_chh_all)
 colnames(cp_chh_all) <- cp_chh_all[1,]
 cp_chh_all <- cp_chh_all[-1,]
 cp_chh_all <- as.data.frame(cp_chh_all)
-cp_chh_all[,1:8] <- as.numeric(cp_chh_all[,1:8]) 
+cp_chh_all[,1:8] <- as.numeric(unlist(cp_chh_all[,1:8])) 
 View(cp_chh_all)
 
 #Calculate cell counts with data (excluding NAs) by cpXXXXXXXX
@@ -350,7 +350,7 @@ cp_chg_all <-t(cp_chg_all)
 colnames(cp_chg_all) <- cp_chg_all[1,]
 cp_chg_all <- cp_chg_all[-1,]
 cp_chg_all <- as.data.frame(cp_chg_all)
-cp_chg_all[,1:8] <- as.numeric(cp_chg_all[,1:8]) 
+cp_chg_all[,1:8] <- as.numeric(unlist(cp_chg_all[,1:8])) 
 View(cp_chg_all)
 
 #Calculate cell counts with data (excluding NAs) by cpXXXXXXXX
@@ -447,10 +447,19 @@ table(rowSums(output)/2)
 ####################################################################################
 # PART 4: CALCULATE DEPTH COVERAGE STATISTICS
 
-# Goal: use fastq files to figure out the coverage depth
-# for all sites, to be used for filtering
+# Goal: summarize depth statistics from bismark files
+(bismark_files_cpg <- list.files(pattern="*_CpG.gz.bismark.cov", recursive=TRUE))
 
-
+out_cpg_depth<-data.frame()
+for(i in 1:length(bismark_files_cpg)) {
+  eg<-read.table(bismark_files_cpg[i]) #read in each file in list as table
+  tmp<-as.data.frame(eg)
+  tmp$cov<-tmp[,5]+tmp[,6]
+  #tmp <- tmp[-c(1:3,5:6),] #remove all rows except percent methylation data
+  tmp <-  cbind("id" = bismark_files_cpg[i], tmp) #add a column with the file name
+  out_cpg_depth <- rbindlist(list(out_cpg_depth, tmp), use.names= TRUE, fill=TRUE) #merge all tables together
+}
+write.csv(out_cpg_depth, file= paste0(homewd,"/Dry-pipeline-WIP/Dataframes/cpg_depth.csv"), row.names = F)
 
 
 
